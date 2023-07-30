@@ -1,0 +1,39 @@
+.cabecera{
+    align-items: center;
+    background: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.logo{
+    display: block;
+    max-width:450px;
+    max-height:2500px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.menu__lista{
+    display: flex;
+
+}
+.menu__item{
+    list-style: none;
+
+}
+ .menu__link{
+    color: #808080;
+    margin-right: 2.5rem;
+    text-decoration: none;
+    font-size: 3rem;
+   
+ }
+ .menu__link:hover{
+    text-decoration: underline;
+ }
+
+ .menu__link.activo{
+    color: #333333;
+
+
+ }

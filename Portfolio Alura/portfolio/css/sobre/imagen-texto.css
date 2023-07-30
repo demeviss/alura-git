@@ -1,0 +1,8 @@
+.imagen__texto {
+background: url(fondo.jpg);
+background-size: cover;
+background-position: center;
+width: 50%;
+height: 100vh;
+
+}

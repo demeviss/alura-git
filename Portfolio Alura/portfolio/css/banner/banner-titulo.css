@@ -1,0 +1,13 @@
+.banner__titulo{ 
+color: #ffffff;
+font-family: "Jost", sans-serif;
+font-size: 4rem;
+position: relative;
+left: 50%;
+
+top: 60%;
+text-align: center;
+transform: translate(-50%, -300%);
+width: 100%;
+
+}
